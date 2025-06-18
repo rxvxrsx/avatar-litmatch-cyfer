@@ -1,9 +1,7 @@
 {
-  "background": [
     {
       url: "https://baishan.litatom.com/api/sns/v1/lit/image/eb91a346-49d0-11eb-9467-00163e02deb4",
       label: "ฟรี",
       position: [0, 0]
     }
-  ]
 }
