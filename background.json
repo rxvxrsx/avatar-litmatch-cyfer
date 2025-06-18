@@ -1,4 +1,4 @@
-[
+{
   "images": [
   {
     "url": "https://baishan.litatom.com/api/sns/v1/lit/image/eb91a346-49d0-11eb-9467-00163e02deb4",
@@ -15,4 +15,4 @@
   "#10CAD5", "#3EFFCC", "#79e7a4", "#FF7C9D", "#F65F80", "#DD2E44", "#CC0418", "#FF4040",
   "#FF4646", "#ff7e00", "#ffd800", "#ffe600", "#4774F4"
 ]
-]
+  }
