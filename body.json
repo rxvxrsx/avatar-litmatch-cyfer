@@ -1,33 +1,91 @@
 {
-"images": [
-  {
+  "images": [
+    {
       "url": "https://baishan.litatom.com/api/sns/v1/lit/image/dd09d102-3590-11ec-ba20-00163e01ff52",
       "label": "ฟรี",
-      "position": [8,0]
+      "position": [
+        8,
+        0
+      ]
     },
     {
       "url": "https://baishan.litatom.com/api/sns/v1/lit/image/dd0a3192-3590-11ec-8165-00163e01ff52",
       "label": "ฟรี",
-      "position": [8,0]
+      "position": [
+        8,
+        0
+      ]
     },
     {
       "url": "https://baishan.litatom.com/api/sns/v1/lit/image/dd09a3ee-3590-11ec-8285-00163e01ff52",
       "label": "ฟรี",
-      "position": [8,0]
+      "position": [
+        8,
+        0
+      ]
     },
     {
       "url": "https://baishan.litatom.com/api/sns/v1/lit/image/dd07afb2-3590-11ec-8165-00163e01ff52",
       "label": "ฟรี",
-      "position": [8,0]
+      "position": [
+        8,
+        0
+      ]
     }
   ],
   "colorPalette": [
-  "#2A2B2D", "#616366", "#AFC9FF", "#3776FD", "#2C4376", "#AAE1FF", "#70C3F1", "#0079BC",
-  "#94E4D2", "#2EB899", "#2B6D5F", "#CAE4AC", "#86B252", "#4B7916", "#FFA8B3", "#ED6072",
-  "#C52337", "#CC6556", "#B33758", "#FFB7E6", "#EF78C6", "#B72F88", "#CAA7E8", "#9156C4",
-  "#5B3B77", "#F0CAF8", "#C276D1", "#753E80", "#C48B57", "#885F3B", "#56402D", "#F5D59E",
-  "#E9B560", "#DF9927", "#FF8F00", "#F37C3D", "#F6F2B9", "#EBE268", "#E5D733", "#F9D401",
-  "#10CAD5", "#3EFFCC", "#79e7a4", "#FF7C9D", "#F65F80", "#DD2E44", "#CC0418", "#FF4040",
-  "#FF4646", "#ff7e00", "#ffd800", "#ffe600", "#4774F4"
-]
+    "#2A2B2D",
+    "#616366",
+    "#AFC9FF",
+    "#3776FD",
+    "#2C4376",
+    "#AAE1FF",
+    "#70C3F1",
+    "#0079BC",
+    "#94E4D2",
+    "#2EB899",
+    "#2B6D5F",
+    "#CAE4AC",
+    "#86B252",
+    "#4B7916",
+    "#FFA8B3",
+    "#ED6072",
+    "#C52337",
+    "#CC6556",
+    "#B33758",
+    "#FFB7E6",
+    "#EF78C6",
+    "#B72F88",
+    "#CAA7E8",
+    "#9156C4",
+    "#5B3B77",
+    "#F0CAF8",
+    "#C276D1",
+    "#753E80",
+    "#C48B57",
+    "#885F3B",
+    "#56402D",
+    "#F5D59E",
+    "#E9B560",
+    "#DF9927",
+    "#FF8F00",
+    "#F37C3D",
+    "#F6F2B9",
+    "#EBE268",
+    "#E5D733",
+    "#F9D401",
+    "#10CAD5",
+    "#3EFFCC",
+    "#79e7a4",
+    "#FF7C9D",
+    "#F65F80",
+    "#DD2E44",
+    "#CC0418",
+    "#FF4040",
+    "#FF4646",
+    "#ff7e00",
+    "#ffd800",
+    "#ffe600",
+    "#4774F4"
+  ]
 }
