@@ -2,67 +2,156 @@
   "images": [
     {
       "url": "https://baishan.litatom.com/api/sns/v1/lit/image/93600be4-3594-11ec-9753-00163e01ff52",
-      "label": "ฟรี",
+      "price": "ฟรี",
       "position": [
         8,
         10
-      ]
+      ],
+      "classify": "pattern"
     },
     {
       "url": "https://baishan.litatom.com/api/sns/v1/lit/image/935ef48e-3594-11ec-8da5-00163e01ff52",
-      "label": "ฟรี",
+      "price": "ฟรี",
       "position": [
         8,
         10
-      ]
+      ],
+      "classify": "pattern"
     },
     {
       "url": "https://baishan.litatom.com/api/sns/v1/lit/image/9358c3e8-3594-11ec-9753-00163e01ff52",
-      "label": "💎 240",
+      "price": "💎 240",
       "position": [
         8,
         10
-      ]
+      ],
+      "classify": "pattern"
     },
     {
       "url": "https://baishan.litatom.com/api/sns/v1/lit/image/75a509fa-01c3-11ed-8de7-00163e0453f1",
-      "label": "ฟรี",
+      "price": "ฟรี",
       "position": [
         8,
         10
-      ]
+      ],
+      "classify": "pattern"
     },
     {
       "url": "https://baishan.litatom.com/api/sns/v1/lit/image/9358f750-3594-11ec-a41e-00163e01ff52",
-      "label": "💎 40",
+      "price": "💎 40",
       "position": [
         8,
         10
-      ]
+      ],
+      "classify": "pattern"
     },
     {
       "url": "https://baishan.litatom.com/api/sns/v1/lit/image/935fb7e8-3594-11ec-ae8c-00163e01ff52",
-      "label": "💎 3200",
+      "price": "💎 3200",
       "position": [
         8,
         10
-      ]
+      ],
+      "classify": "pattern"
     },
     {
       "url": "https://baishan.litatom.com/api/sns/v1/lit/image/9365fa5e-3594-11ec-a41e-00163e01ff52",
-      "label": "ฟรี",
+      "price": "ฟรี",
       "position": [
         8,
         10
-      ]
+      ],
+      "classify": "pattern"
     },
     {
       "url": "https://baishan.litatom.com/api/sns/v1/lit/image/9364da84-3594-11ec-899a-00163e01ff52",
-      "label": "ฟรี",
+      "price": "ฟรี",
       "position": [
         8,
         10
-      ]
+      ],
+      "classify": "pattern"
+    },
+    {
+      "url": "https://baishan.litatom.com/api/sns/v1/lit/image/22f1871a-0191-11ed-b512-00163e00bcb4",
+      "price": "💎 399",
+      "position": [
+        8,
+        10
+      ],
+      "classify": "pattern"
+    },
+    {
+      "url": "https://baishan.litatom.com/api/sns/v1/lit/image/22df818c-0191-11ed-b1cb-00163e0453f1",
+      "price": "💎 2999",
+      "position": [
+        8,
+        10
+      ],
+      "classify": "pattern"
+    },
+    {
+      "url": "https://baishan.litatom.com/api/sns/v1/lit/image/22ece66a-0191-11ed-80b4-00163e0453f1",
+      "price": "💎 399",
+      "position": [
+        8,
+        10
+      ],
+      "classify": "pattern"
+    },
+    {
+      "url": "https://baishan.litatom.com/api/sns/v1/lit/image/22de983a-0191-11ed-b065-00163e00bcb4",
+      "price": "💎 399",
+      "position": [
+        8,
+        10
+      ],
+      "classify": "pattern"
+    },
+    {
+      "url": "https://baishan.litatom.com/api/sns/v1/lit/image/22bc1a12-0191-11ed-b065-00163e00bcb4",
+      "price": "💎 2999",
+      "position": [
+        8,
+        10
+      ],
+      "classify": "pattern"
+    },
+    {
+      "url": "https://baishan.litatom.com/api/sns/v1/lit/image/0fbb2778-230e-11ef-ac1d-00163e0c25a5",
+      "price": "💎 100",
+      "position": [
+        8,
+        10
+      ],
+      "classify": "pattern"
+    },
+    {
+      "url": "https://baishan.litatom.com/api/sns/v1/lit/image/22b7f590-0191-11ed-80b4-00163e0453f1",
+      "price": "💎 399",
+      "position": [
+        8,
+        10
+      ],
+      "classify": "pattern"
+    },
+    {
+      "url": "https://baishan.litatom.com/api/sns/v1/lit/image/113613d4-6b4c-11ef-86fd-00163e0c0e25",
+      "price": "💎 100",
+      "position": [
+        8,
+        10
+      ],
+      "classify": "pattern"
+    },
+    {
+      "url": "https://baishan.litatom.com/api/sns/v1/lit/image/bc573a68-a6f2-11ef-bec6-525400ce1211",
+      "price": "💎 100",
+      "position": [
+        8,
+        10
+      ],
+      "classify": "pattern"
     }
   ],
   "colorPalette": [
