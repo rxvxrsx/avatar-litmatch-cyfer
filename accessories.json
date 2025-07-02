@@ -170,6 +170,33 @@
         230
       ],
       "classify": "accessories"
+    },
+    {
+      "url": "https://baishan.litatom.com/api/sns/v1/lit/image/7dd62222-6f57-11ef-965f-00163e0c6f8e",
+      "price": "💎 399",
+      "position": [
+        60,
+        230
+      ],
+      "classify": "accessories"
+    },
+    {
+      "url": "https://baishan.litatom.com/api/sns/v1/lit/image/9dc26d7c-47e1-11ef-a8fa-00163e04c785",
+      "price": "💎 399",
+      "position": [
+        60,
+        230
+      ],
+      "classify": "accessories"
+    },
+    {
+      "url": "https://baishan.litatom.com/api/sns/v1/lit/image/5eaa7156-90e9-11ef-82bc-00163e02b939",
+      "price": "💎 399",
+      "position": [
+        60,
+        230
+      ],
+      "classify": "accessories"
     }
   ],
   "colorPalette": [

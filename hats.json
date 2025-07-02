@@ -503,6 +503,60 @@
         0
       ],
       "classify": "hats"
+    },
+    {
+      "url": "https://baishan.litatom.com/api/sns/v1/lit/image/0bdb2f76-39d9-11f0-9c7f-525400e27bcc",
+      "price": "💎 100",
+      "position": [
+        8,
+        0
+      ],
+      "classify": "hats"
+    },
+    {
+      "url": "https://baishan.litatom.com/api/sns/v1/lit/image/b66f061e-ae72-11ed-a294-00163e017c0d",
+      "price": "💎 999999",
+      "position": [
+        8,
+        0
+      ],
+      "classify": "hats"
+    },
+    {
+      "url": "https://baishan.litatom.com/api/sns/v1/lit/image/4fa4771c-456b-11ee-8351-00163e06dce3",
+      "price": "💎 999999",
+      "position": [
+        8,
+        0
+      ],
+      "classify": "hats"
+    },
+    {
+      "url": "https://baishan.litatom.com/api/sns/v1/lit/image/35e7468e-77e2-11ee-b249-00163e000dc7",
+      "price": "💎 999999",
+      "position": [
+        8,
+        0
+      ],
+      "classify": "hats"
+    },
+    {
+      "url": "https://baishan.litatom.com/api/sns/v1/lit/image/913fdb82-5ba2-11ef-bbb8-00163e081efb",
+      "price": "💎 399",
+      "position": [
+        8,
+        0
+      ],
+      "classify": "hats"
+    },
+    {
+      "url": "https://baishan.litatom.com/api/sns/v1/lit/image/9170d3c2-5ba2-11ef-b995-00163e081552",
+      "price": "💎 399",
+      "position": [
+        8,
+        0
+      ],
+      "classify": "hats"
     }
   ],
   "colorPalette": [
