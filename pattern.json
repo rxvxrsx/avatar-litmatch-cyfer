@@ -152,6 +152,15 @@
         10
       ],
       "classify": "pattern"
+    },
+    {
+      "url": "https://baishan.litatom.com/api/sns/v1/lit/image/ddbcf346-c6a4-11f0-91ea-52540018b9e7",
+      "price": "💎 100",
+      "position": [
+        8,
+        10
+      ],
+      "classify": "pattern"
     }
   ],
   "colorPalette": [

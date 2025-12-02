@@ -116,6 +116,24 @@
         0
       ],
       "classify": "background"
+    },
+    {
+      "url": "https://baishan.litatom.com/api/sns/v1/lit/image/dd977814-c6a4-11f0-b296-525400e7ed2c",
+      "price": "💎 100",
+      "position": [
+        0,
+        0
+      ],
+      "classify": "background"
+    },
+    {
+      "url": "https://baishan.litatom.com/api/sns/v1/lit/image/dded0a40-c6a4-11f0-b296-525400e7ed2c",
+      "price": "💎 100",
+      "position": [
+        0,
+        0
+      ],
+      "classify": "background"
     }
   ],
   "colorPalette": [

@@ -674,6 +674,15 @@
         0
       ],
       "classify": "mood"
+    },
+    {
+      "url": "https://baishan.litatom.com/api/sns/v1/lit/image/dd8d974a-c6a4-11f0-a6c1-525400dfe03c",
+      "price": "💎 100",
+      "position": [
+        0,
+        0
+      ],
+      "classify": "mood"
     }
   ],
   "colorPalette": [
